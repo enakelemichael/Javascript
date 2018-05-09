@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  display: flex;
+  color: aliceblue;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.butt {
+  margin: auto;
+}
+
+button {
+  background-color: aqua;
+  border: 5px solid magenta;
+  width: 400px;
+  height: 400px;
+  font-size: 40px;
+  font-weight: bold;
+  margin: auto;
+  border-radius: 20px;
+}
+
+.redButton {
+  background-color: brown;
+}
+
+.aquaButton {
+  background-color: aqua;
+}
